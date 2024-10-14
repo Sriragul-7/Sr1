@@ -1,2 +1,2 @@
-# Sr1
+# Sample
 Learning
